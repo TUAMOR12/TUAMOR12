@@ -1,0 +1,6 @@
+git clone https://github.com/noob-hackers/ighack
+ls
+cd ighack
+ls
+bash setup
+bash ighack.sh
